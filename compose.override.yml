@@ -1,0 +1,18 @@
+# Carregado automaticamente por `docker compose up` (só desenvolvimento).
+services:
+  api:
+    build:
+      args:
+        INSTALL_DEV: "true"
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    volumes:
+      - ./app:/app/app
+      - ./tests:/app/tests
+      - ./scripts:/app/scripts
+      - ./seed:/app/seed
+    ports:
+      - "127.0.0.1:8000:8000"
+
+  mongo:
+    ports:
+      - "127.0.0.1:27017:27017" # para o MongoDB Compass

@@ -1,0 +1,24 @@
+# Padrões com **/ valem em qualquer pasta, não só na raiz.
+.git
+.github
+.vscode
+.idea
+docs/
+data/
+
+# Segredos: nenhum .env entra na imagem (nem em subpastas).
+**/.env
+**/.env.*
+
+# Caches e artefatos locais
+**/__pycache__
+**/*.py[cod]
+**/.pytest_cache
+**/.ruff_cache
+**/.venv
+**/venv
+**/.coverage
+**/htmlcov
+**/.DS_Store
+**/Thumbs.db
+**/*.md

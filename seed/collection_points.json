@@ -1,0 +1,2135 @@
+[
+  {
+    "slug": "osm-n4355845289",
+    "name": "Posto Petrobras",
+    "address": {
+      "street": "Avenida Carlos Marighella",
+      "number": null,
+      "bairro": "Barroco",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24936-130"
+    },
+    "location": {
+      "lat": -22.9586233,
+      "lng": -42.9826467
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n9370836772",
+    "name": "Posto AMRX",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Cajueiros",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-755"
+    },
+    "location": {
+      "lat": -22.9332543,
+      "lng": -42.9164547
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13453177608",
+    "name": "m&f",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Calaboca",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24944-256"
+    },
+    "location": {
+      "lat": -22.8989893,
+      "lng": -42.9455782
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13727890681",
+    "name": "nks",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Calaboca",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24944-256"
+    },
+    "location": {
+      "lat": -22.8989602,
+      "lng": -42.9453219
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12323499130",
+    "name": "Borracharia - Centro",
+    "address": {
+      "street": "Avenida Vereador Francisco Sabino da Silva Costa",
+      "number": null,
+      "bairro": "Centro",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-730"
+    },
+    "location": {
+      "lat": -22.9100331,
+      "lng": -42.8210248
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-w408068198",
+    "name": "Ipiranga",
+    "address": {
+      "street": "Avenida Vereador Francisco Sabino da Silva Costa",
+      "number": null,
+      "bairro": "Centro",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24900-100"
+    },
+    "location": {
+      "lat": -22.9116682,
+      "lng": -42.8201758
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-w478244838",
+    "name": "Oficina RM 10",
+    "address": {
+      "street": "Rua Antônio Vieira Sobrinho",
+      "number": null,
+      "bairro": "Centro",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24901-020"
+    },
+    "location": {
+      "lat": -22.9166929,
+      "lng": -42.8218788
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n14331324502",
+    "name": "car sound",
+    "address": {
+      "street": "Marginal Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Centro",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24900-155"
+    },
+    "location": {
+      "lat": -22.9074993,
+      "lng": -42.8194294
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n5370863322",
+    "name": "Fênix Serviços Automotivos",
+    "address": {
+      "street": "Rua C",
+      "number": "0 casa fundos",
+      "bairro": "Chácaras de Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24941-615"
+    },
+    "location": {
+      "lat": -22.9192743,
+      "lng": -42.936458
+    },
+    "phone": "+55 21 99284 7499",
+    "opening_hours": "Mo-Sa 00:00-24:00; Su 09:00-18:00",
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n4191848095",
+    "name": "Oficina mecânica - Chácaras de Inoã",
+    "address": {
+      "street": "Avenida Carlos Marighella",
+      "number": null,
+      "bairro": "Chácaras de Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24942-285"
+    },
+    "location": {
+      "lat": -22.9116453,
+      "lng": -42.9462922
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13620657804",
+    "name": "ph pneus",
+    "address": {
+      "street": "Rua 7",
+      "number": null,
+      "bairro": "Chácaras de Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24900-065"
+    },
+    "location": {
+      "lat": -22.9280019,
+      "lng": -42.9242622
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n2625224021",
+    "name": "Posto Ale",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Condado de Maricá",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24904-400"
+    },
+    "location": {
+      "lat": -22.9032603,
+      "lng": -42.7989681
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n11068021141",
+    "name": "Honda",
+    "address": {
+      "street": "Avenida Roberto Silveira",
+      "number": null,
+      "bairro": "Flamengo",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24904-100"
+    },
+    "location": {
+      "lat": -22.9035407,
+      "lng": -42.8018082
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_moto"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n9886128906",
+    "name": "Oficina mecânica - Flamengo",
+    "address": {
+      "street": "Rua Mário Pedro da Silva",
+      "number": null,
+      "bairro": "Flamengo",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24904-100"
+    },
+    "location": {
+      "lat": -22.903548,
+      "lng": -42.8041008
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13620690583",
+    "name": "Oficina mecânica - Flamengo",
+    "address": {
+      "street": "Avenida Roberto Silveira",
+      "number": null,
+      "bairro": "Flamengo",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24904-100"
+    },
+    "location": {
+      "lat": -22.9040599,
+      "lng": -42.8020642
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n14331332616",
+    "name": "Oficina mecânica - Flamengo",
+    "address": {
+      "street": "Avenida Roberto Silveira",
+      "number": null,
+      "bairro": "Flamengo",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24903-815"
+    },
+    "location": {
+      "lat": -22.9085796,
+      "lng": -42.8042278
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n4091289482",
+    "name": "Posto de combustível - Flamengo",
+    "address": {
+      "street": "Avenida Roberto Silveira",
+      "number": null,
+      "bairro": "Flamengo",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24903-815"
+    },
+    "location": {
+      "lat": -22.917103,
+      "lng": -42.8096325
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-w1488674683",
+    "name": "Posto de combustível - Flamengo",
+    "address": {
+      "street": "Condomínio Monte Cristal",
+      "number": null,
+      "bairro": "Flamengo",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24904-400"
+    },
+    "location": {
+      "lat": -22.9077109,
+      "lng": -42.803458
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13510290402",
+    "name": "fusion",
+    "address": {
+      "street": "Avenida Roberto Silveira",
+      "number": null,
+      "bairro": "Flamengo",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24904-100"
+    },
+    "location": {
+      "lat": -22.9034628,
+      "lng": -42.8014217
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_moto"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n9886128910",
+    "name": "gbm",
+    "address": {
+      "street": "Rua Delson Barbosa da Costa",
+      "number": null,
+      "bairro": "Flamengo",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24904-100"
+    },
+    "location": {
+      "lat": -22.9033998,
+      "lng": -42.80272
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n14331318226",
+    "name": "km",
+    "address": {
+      "street": "Avenida Roberto Silveira",
+      "number": null,
+      "bairro": "Flamengo",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24903-815"
+    },
+    "location": {
+      "lat": -22.9106292,
+      "lng": -42.8048563
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_moto"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13620707277",
+    "name": "new garage",
+    "address": {
+      "street": "Avenida Roberto Silveira",
+      "number": null,
+      "bairro": "Flamengo",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24904-100"
+    },
+    "location": {
+      "lat": -22.9059179,
+      "lng": -42.8029983
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n14256335190",
+    "name": "pai e filho",
+    "address": {
+      "street": "Avenida Roberto Silveira",
+      "number": null,
+      "bairro": "Flamengo",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24903-815"
+    },
+    "location": {
+      "lat": -22.9082036,
+      "lng": -42.8041052
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13510309906",
+    "name": "restauracar",
+    "address": {
+      "street": "Avenida Roberto Silveira",
+      "number": null,
+      "bairro": "Flamengo",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24904-100"
+    },
+    "location": {
+      "lat": -22.9046347,
+      "lng": -42.8022965
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n2625225556",
+    "name": "BR",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24943-180"
+    },
+    "location": {
+      "lat": -22.9192454,
+      "lng": -42.9282678
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n2752505587",
+    "name": "BR",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24943-180"
+    },
+    "location": {
+      "lat": -22.9203575,
+      "lng": -42.9283786
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12425985279",
+    "name": "Borracharia - Inoã",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24943-670"
+    },
+    "location": {
+      "lat": -22.9069788,
+      "lng": -42.9359241
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12426031509",
+    "name": "Borracharia - Inoã",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24943-255"
+    },
+    "location": {
+      "lat": -22.9131687,
+      "lng": -42.9331399
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12426037705",
+    "name": "Borracharia - Inoã",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24943-670"
+    },
+    "location": {
+      "lat": -22.9049289,
+      "lng": -42.9365397
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-w1316039203",
+    "name": "Honda",
+    "address": {
+      "street": "Rua Um",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24942-290"
+    },
+    "location": {
+      "lat": -22.9142284,
+      "lng": -42.9324066
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_moto"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n5197124321",
+    "name": "Posto Sentido do Mar",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": "km 13.5",
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24943-670"
+    },
+    "location": {
+      "lat": -22.9089904,
+      "lng": -42.9354246
+    },
+    "phone": null,
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n2752505573",
+    "name": "Posto de combustível - Inoã",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24943-670"
+    },
+    "location": {
+      "lat": -22.9086696,
+      "lng": -42.9350433
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13066136330",
+    "name": "Rede Mc",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24943-670"
+    },
+    "location": {
+      "lat": -22.9085474,
+      "lng": -42.9357233
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13728370887",
+    "name": "auto elétrica",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24900-065"
+    },
+    "location": {
+      "lat": -22.9295911,
+      "lng": -42.9234896
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13857648197",
+    "name": "dorcas",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24943-670"
+    },
+    "location": {
+      "lat": -22.9073372,
+      "lng": -42.9358564
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12426025269",
+    "name": "low rodas",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24900-065"
+    },
+    "location": {
+      "lat": -22.9267271,
+      "lng": -42.9248837
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13728428004",
+    "name": "pinnas",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24943-670"
+    },
+    "location": {
+      "lat": -22.9118819,
+      "lng": -42.9337893
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_moto"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13620991567",
+    "name": "planet motos",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24900-065"
+    },
+    "location": {
+      "lat": -22.9296994,
+      "lng": -42.9234384
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_moto"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12324283129",
+    "name": "pontão 17",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Inoã",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24900-065"
+    },
+    "location": {
+      "lat": -22.9300053,
+      "lng": -42.9232996
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12234036795",
+    "name": "Auto Posto Jardim Atlantico",
+    "address": {
+      "street": "Rua Professor Cardoso de Menezes, s/n, Lote 21A Quadra: 113, Jardim Atlântico",
+      "number": null,
+      "bairro": "Itaipuaçu",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24935-425"
+    },
+    "location": {
+      "lat": -22.9626551,
+      "lng": -42.9619913
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12323468176",
+    "name": "Borracharia - Itapeba",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Itapeba",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-000"
+    },
+    "location": {
+      "lat": -22.9111976,
+      "lng": -42.8417819
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12426034811",
+    "name": "Borracharia - Itapeba",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Itapeba",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-000"
+    },
+    "location": {
+      "lat": -22.9102513,
+      "lng": -42.8403611
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n14331743922",
+    "name": "Borracharia - Itapeba",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Itapeba",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-000"
+    },
+    "location": {
+      "lat": -22.9105929,
+      "lng": -42.8407066
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n14331291370",
+    "name": "Dec car",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Itapeba",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-000"
+    },
+    "location": {
+      "lat": -22.9086016,
+      "lng": -42.8341538
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n4091437016",
+    "name": "Posto GNV",
+    "address": {
+      "street": "Rua José Barbosa da Cuhna",
+      "number": null,
+      "bairro": "Itapeba",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-730"
+    },
+    "location": {
+      "lat": -22.9071144,
+      "lng": -42.8237064
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n4095381311",
+    "name": "Posto de combustível - Itapeba",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Itapeba",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-000"
+    },
+    "location": {
+      "lat": -22.9094093,
+      "lng": -42.839981
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13509924818",
+    "name": "blub sound",
+    "address": {
+      "street": "Rua José Barbosa da Cuhna",
+      "number": null,
+      "bairro": "Itapeba",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24912-325"
+    },
+    "location": {
+      "lat": -22.9073608,
+      "lng": -42.8265269
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13728389484",
+    "name": "radiadores Maricá",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Itapeba",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-000"
+    },
+    "location": {
+      "lat": -22.9094801,
+      "lng": -42.8390609
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n4185818615",
+    "name": "Auto Center Martins",
+    "address": {
+      "street": "Rua Professor Cardoso de Menezes",
+      "number": null,
+      "bairro": "Jardim Atlântico Central",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24935-085"
+    },
+    "location": {
+      "lat": -22.9535668,
+      "lng": -42.9623237
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n4185827795",
+    "name": "Posto de combustível - Jardim Atlântico Central",
+    "address": {
+      "street": "Rua Professor Cardoso de Menezes",
+      "number": null,
+      "bairro": "Jardim Atlântico Central",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24935-085"
+    },
+    "location": {
+      "lat": -22.9449892,
+      "lng": -42.9623848
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-w1488709961",
+    "name": "RAG Centro Automotivo Delais",
+    "address": {
+      "street": "Rua 74",
+      "number": null,
+      "bairro": "Jardim Atlântico Leste",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24933-340"
+    },
+    "location": {
+      "lat": -22.9629113,
+      "lng": -42.9349986
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13808232610",
+    "name": "Jr Garcia",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Mumbuca",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-730"
+    },
+    "location": {
+      "lat": -22.9078915,
+      "lng": -42.8247262
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n2625224022",
+    "name": "Posto Shell",
+    "address": {
+      "street": "Travessa Arminda Nogueira da Silva",
+      "number": null,
+      "bairro": "Mumbuca",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-000"
+    },
+    "location": {
+      "lat": -22.9084435,
+      "lng": -42.8317591
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-w1337377966",
+    "name": "Posto de combustível - Mumbuca",
+    "address": {
+      "street": "Travessa Arminda Nogueira da Silva",
+      "number": null,
+      "bairro": "Mumbuca",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-000"
+    },
+    "location": {
+      "lat": -22.9084291,
+      "lng": -42.8317273
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n14331802292",
+    "name": "autocar",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Mumbuca",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-000"
+    },
+    "location": {
+      "lat": -22.9084696,
+      "lng": -42.8326739
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12425955356",
+    "name": "tidinha baterias",
+    "address": {
+      "street": "Travessa Arminda Nogueira da Silva",
+      "number": null,
+      "bairro": "Mumbuca",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-000"
+    },
+    "location": {
+      "lat": -22.9084172,
+      "lng": -42.8319916
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n14331812914",
+    "name": "stop car",
+    "address": {
+      "street": "Rua Albatroz",
+      "number": null,
+      "bairro": "Parque Nanci",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24900-001"
+    },
+    "location": {
+      "lat": -22.9170009,
+      "lng": -42.8501005
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12323450528",
+    "name": "Oficina mecânica - Ponta Grossa",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Ponta Grossa",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24914-440"
+    },
+    "location": {
+      "lat": -22.9243112,
+      "lng": -42.8624299
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12323465311",
+    "name": "evolusom",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Ponta Grossa",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24914-440"
+    },
+    "location": {
+      "lat": -22.923122,
+      "lng": -42.8604372
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12426031837",
+    "name": "old street center",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Ponta Grossa",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24914-440"
+    },
+    "location": {
+      "lat": -22.9194024,
+      "lng": -42.8538013
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12425958672",
+    "name": "promoção baterias",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "Ponta Grossa",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24914-440"
+    },
+    "location": {
+      "lat": -22.9214384,
+      "lng": -42.8573213
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-w698117646",
+    "name": "Posto São Pedro",
+    "address": {
+      "street": "Rua Simão Luiz Da Costa",
+      "number": null,
+      "bairro": "Ponta Negra",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24922-300"
+    },
+    "location": {
+      "lat": -22.9522254,
+      "lng": -42.6963332
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12324287991",
+    "name": "Borracharia - São José do Imbassaí",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24911-850"
+    },
+    "location": {
+      "lat": -22.9254063,
+      "lng": -42.8642746
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12426009277",
+    "name": "Borracharia - São José do Imbassaí",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-755"
+    },
+    "location": {
+      "lat": -22.9346513,
+      "lng": -42.8983132
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13621015925",
+    "name": "Daniel",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-605"
+    },
+    "location": {
+      "lat": -22.9316672,
+      "lng": -42.8812966
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13857679467",
+    "name": "JC insufilm",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-755"
+    },
+    "location": {
+      "lat": -22.9332998,
+      "lng": -42.8916597
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13728386211",
+    "name": "Joel car",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24911-850"
+    },
+    "location": {
+      "lat": -22.9251243,
+      "lng": -42.863763
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n14331314952",
+    "name": "Oficina de motos - São José do Imbassaí",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-605"
+    },
+    "location": {
+      "lat": -22.9322738,
+      "lng": -42.8858242
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_moto"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n8397640417",
+    "name": "Oficina do Evandro",
+    "address": {
+      "street": "Rua Cananéia",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-100"
+    },
+    "location": {
+      "lat": -22.9330362,
+      "lng": -42.8779414
+    },
+    "phone": "+55 21 96762 9022",
+    "opening_hours": "Mo-Fr 07:00-17:00; Sa 07:00-12:00",
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n2625224023",
+    "name": "Posto BR",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-000"
+    },
+    "location": {
+      "lat": -22.9285607,
+      "lng": -42.8693251
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n2625224024",
+    "name": "Posto BR",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24913-605"
+    },
+    "location": {
+      "lat": -22.933328,
+      "lng": -42.8939565
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n4095433519",
+    "name": "Posto Shell",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-100"
+    },
+    "location": {
+      "lat": -22.9302709,
+      "lng": -42.8719702
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13620942745",
+    "name": "alcance estética",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-605"
+    },
+    "location": {
+      "lat": -22.9324827,
+      "lng": -42.8869575
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n14331317701",
+    "name": "capotaria ponto 22",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-100"
+    },
+    "location": {
+      "lat": -22.9311615,
+      "lng": -42.8772234
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n12426029857",
+    "name": "mmrj106",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-000"
+    },
+    "location": {
+      "lat": -22.9259924,
+      "lng": -42.8652161
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13510290464",
+    "name": "pai e filho",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-605"
+    },
+    "location": {
+      "lat": -22.931948,
+      "lng": -42.8834627
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n13857681577",
+    "name": "pneus",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-605"
+    },
+    "location": {
+      "lat": -22.9323433,
+      "lng": -42.8861991
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-n14331311918",
+    "name": "tn",
+    "address": {
+      "street": "Rodovia Amaral Peixoto",
+      "number": null,
+      "bairro": "São José do Imbassaí",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24931-605"
+    },
+    "location": {
+      "lat": -22.9317662,
+      "lng": -42.881927
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "osm-w1285013387",
+    "name": "Posto Ponta Negra",
+    "address": {
+      "street": "Rua Philuvio Cerqueira Rodrigues",
+      "number": null,
+      "bairro": "Vale da Figueira",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24922-470"
+    },
+    "location": {
+      "lat": -22.9014121,
+      "lng": -42.7106665
+    },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": [
+      "motor_carro"
+    ],
+    "conditions": "Ligue antes para confirmar se o local recebe óleo usado.",
+    "verified": false,
+    "verified_at": null,
+    "source": "openstreetmap",
+    "google_place_id": null,
+    "active": true
+  }
+]

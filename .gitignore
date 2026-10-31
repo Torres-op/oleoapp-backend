@@ -1,0 +1,25 @@
+# Segredos e configuração local
+.env
+.env.*
+!.env.example
+
+# Dados locais (candidatos da curadoria, etc.)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Ferramentas
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editor / SO
+.idea/
+.DS_Store
+Thumbs.db

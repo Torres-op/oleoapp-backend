@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "exemplo-centro",
+    "name": "EXEMPLO - Posto Central (fictício)",
+    "address": {
+      "street": "Rua Exemplo",
+      "number": "100",
+      "bairro": "Centro",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": "24900-000"
+    },
+    "location": { "lat": -22.9189, "lng": -42.8186 },
+    "phone": "(21) 0000-0000",
+    "opening_hours": "Seg a Sex, 8h às 18h",
+    "accepted_oils": ["motor_carro", "motor_moto"],
+    "conditions": "Levar em recipiente fechado",
+    "verified": true,
+    "verified_at": "2026-10-01",
+    "source": "exemplo",
+    "google_place_id": null,
+    "active": true
+  },
+  {
+    "slug": "exemplo-itapeba",
+    "name": "EXEMPLO - Oficina do Bairro (fictícia)",
+    "address": {
+      "street": "Avenida Exemplo",
+      "number": null,
+      "bairro": "Itapeba",
+      "city": "Maricá",
+      "state": "RJ",
+      "cep": null
+    },
+    "location": { "lat": -22.9331, "lng": -42.8723 },
+    "phone": null,
+    "opening_hours": null,
+    "accepted_oils": ["motor_carro", "motor_diesel", "outros_lubrificantes"],
+    "conditions": null,
+    "verified": false,
+    "verified_at": null,
+    "source": "exemplo",
+    "google_place_id": null,
+    "active": true
+  }
+]
